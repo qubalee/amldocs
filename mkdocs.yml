@@ -48,14 +48,14 @@ theme:
 
 nav:
   - Home: index.md
-  - Sampe Preparation:
-    - overview : sample_prep/sample_preparation.md
-  - Data Acquisition:
-    - overview: data_acquisition/data_acquisition.md
-  - Data Processing:
-    - overview: data_processing/data_processing.md
-  - Applications:
-    - overview: applications/applications.md
+  #- Sampe Preparation:
+  #  - overview : sample_prep/sample_preparation.md
+  #- Data Acquisition:
+  #  - overview: data_acquisition/data_acquisition.md
+  #- Data Processing:
+  #  - overview: data_processing/data_processing.md
+  #- Applications:
+  #  - overview: applications/applications.md
   - Tags: tags.md
 
 extra:
