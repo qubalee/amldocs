@@ -86,4 +86,4 @@ markdown_extensions:
       emoji_generator: !!python/name:materialx.emoji.to_svg
 
 copyright: |
-  &copy; 2025 <a href="https://notes.qubalee.com"  target="_blank" rel="noopener">ALQUBALEE Notes</a>
+  &copy; 2025 <a href="https://qubalee.github.io"  target="_blank" rel="noopener">Abdullah Alqubalee</a>
