@@ -5,13 +5,32 @@ theme:
   features:
     - navigation.tabs
     - navigation.sections
-    - toc.integrate
+    #- toc.integrate
+    - toc.follow
     - navigation.top
+    - navigation.top.sticky
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.instant.preview
+    - navigation.path
+    - navigation.tracking
     - search.suggest
     - search.highlight
     - content.tabs.link
     - content.code.annotation
     - content.code.copy
+    - search.suggest
+    - search.highlight
+    - search.share
+
+  plugins:
+    - search
+    - tags:
+       - tags_file : tags.md
+    - blog
+
+
+
   language: en
   palette:
     - scheme: default
@@ -27,6 +46,17 @@ theme:
       primary: teal
       accent: lime
 
+nav:
+  - Home: index.md
+  - Sampe Preparation:
+    - overview : sample_prep/sample_preparation.md
+  - Data Acquisition:
+    - overview: data_acquisition/data_acquisition.md
+  - Data Processing:
+    - overview: data_processing/data_processing.md
+  - Applications:
+    - overview: applications/applications.md
+  - Tags: tags.md
 
 extra:
   social:
