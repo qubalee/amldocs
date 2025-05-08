@@ -5,8 +5,6 @@
 
 For more information, please contact [aml@kfupm.edu.sa](mailto:aml@kfupm.edu.sa).
 
-<div id="chatbot-container"></div>
-
 <script>
     window.chtlConfig = { chatbotId: "9578957467" };
 </script>
