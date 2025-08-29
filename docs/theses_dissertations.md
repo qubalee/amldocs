@@ -3,13 +3,13 @@
 This section compiles graduate research (Master’s and PhD) from **King Fahd University of Petroleum and Minerals (KFUPM)** that applies automated mineralogy to reservoir studies, diagenesis, pore characterization, geochemistry, and emerging applications.
 
 **Jump to:**  
-[Microfacies & Depositional Studies](#microfacies--depositional-studies) •
-[Reservoir Characterization & Heterogeneity](#reservoir-characterization--heterogeneity) •
-[Diagenesis, Petrophysics & Chemostratigraphy](#diagenesis-petrophysics--chemostratigraphy) •
-[Unconventional Reservoirs & Shales](#unconventional-reservoirs--shales) •
-[Carbonates & Sonic Properties](#carbonates--sonic-properties) •
-[Regional Geology & Sedimentology](#regional-geology--sedimentology) •
-[Novel & Frontier Applications](#novel--frontier-applications)
+[Microfacies & Depositional Studies](#microfacies-depositional-studies) •
+[Reservoir Characterization & Heterogeneity](#reservoir-characterization-heterogeneity) •
+[Diagenesis, Petrophysics & Chemostratigraphy](#diagenesis-petrophysics-chemostratigraphy) •
+[Unconventional Reservoirs & Shales](#unconventional-reservoirs-shales) •
+[Carbonates & Sonic Properties](#carbonates-sonic-properties) •
+[Regional Geology & Sedimentology](#regional-geology-sedimentology) •
+[Novel & Frontier Applications](#novel-frontier-applications)
 
 ---
 
