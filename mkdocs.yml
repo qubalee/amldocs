@@ -50,7 +50,10 @@ theme:
       accent: lime
 
 nav:
-  - Home: index.md
+  - Home:
+    - index.md
+    - publications.md
+    - theses_dissertations.md
   # Sampe Preparation:
   #  - overview : sample_preparation.md
   #- Data Acquisition:
@@ -58,7 +61,7 @@ nav:
   #- Data Processing:
   #  - overview: data_processing/data_processing.md
   #- Applications:
-  #  - overview: applications/applications.md
+  #  - applications.md
   # Tags: tags.md
 
 extra:
