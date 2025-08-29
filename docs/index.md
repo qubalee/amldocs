@@ -1,7 +1,7 @@
 
 # Overview
 
-> **Note:** This space is dedicated to documenting the operations of the [Automated Mineralogy Lab (AML)](https://cpg.kfupm.edu.sa/aml), covering everything from sample preparation to data processing. This initiative is part of our comprehensive data acquisition protocols. Please note that the content is currently being prepared offline and will be available as soon as it is completed. Until the documentation is fully completed, you can learn more about the applications of automated mineralogy from the [Publications](publications.md), and [Theses and Dissertations](theses_dissertations.md). 
+> **Note:** This space is dedicated to documenting the operations of the [Automated Mineralogy Lab (AML)](https://cpg.kfupm.edu.sa/aml), covering everything from sample preparation to data processing. This initiative is part of our comprehensive data acquisition protocols; check out the [WIIP](https://qubalee.github.io/posts/2025/04/wiip/). Please note that the content is currently being prepared offline and will be available as soon as it is completed. Until the documentation is fully completed, you can learn more about the applications of automated mineralogy from the [Publications](publications.md), and [Theses and Dissertations](theses_dissertations.md). 
 
 
 ____
