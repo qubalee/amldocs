@@ -66,4 +66,4 @@ This section compiles graduate research (Master’s and PhD) from **King Fahd Un
 
 ---
 
-> **Note:** All records accessed via [KFUPM ePrints Repository](https://eprints.kfupm.edu.sa).  
+> **Note:** All records accessed via [KFUPM ePrints Repository](https://eprints.kfupm.edu.sa). If there are any broken links or mistakes, please let me know via email at [abdullah@qubalee.com](abdullah@qubalee.com) 
