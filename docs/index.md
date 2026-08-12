@@ -15,10 +15,7 @@ ____
 
 For more information, please contact [aml@kfupm.edu.sa](mailto:aml@kfupm.edu.sa).
 
-<script>
-    window.chtlConfig = { chatbotId: "9578957467" };
-</script>
-<script async data-id="9578957467" id="chtl-script" type="text/javascript" src="https://chatling.ai/js/embed.js"></script>
+
 
 
 
